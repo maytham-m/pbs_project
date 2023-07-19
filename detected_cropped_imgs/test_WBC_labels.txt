@@ -1,0 +1,6 @@
+test_image_1.jpg LY 95.5%
+test_image_2.jpg LY 98.74%
+test_image_3.jpg EO 66.67%
+test_image_4.jpg MO 55.02%
+test_image_5.jpg EO 100.0%
+test_image_6.jpg MO 97.59%
